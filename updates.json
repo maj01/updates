@@ -1,8 +1,8 @@
 {
   "updates": [
     {
-  "date": "إضافة اختبار",
-  "message": "تمت إضافة <a href='https://cs-teffsts.netlify.app/' target='_blank' style='text-decoration:underline;'><strong>اختبار يناير 2026 (اضغط هنا)</strong></a>."
+  "date": "<span style=color:blue>إضافة اختبار</span>",
+  "message": "تم إضافة <a href='https://cs-tests.netlify.app/' target='_blank' style='text-decoration:underline;'><strong>اختبار يناير 2026 (اضغط هنا)</strong></a>."
 },
     {
       "date": "اختبار مناهج الثانوي",
