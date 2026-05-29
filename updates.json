@@ -7,7 +7,6 @@
     },
     {
       "date": "حل أسئلة مختارة",
-      "message": "تم نشر مقطع فيديو على <strong><a href='https://www.youtube.com/watch?v=BjAETcGjb-c' target="_blank" rel="noopener noreferrer">يــوتــيــوب</a></strong>."
-    }
+      "message": "تم نشر مقطع فيديو على <strong><a href='https://www.youtube.com/watch?v=BjAETcGjb-c' target='_blank' rel='noopener noreferrer'>يــوتــيــوب</a></strong>."    }
   ]
 }
