@@ -1,16 +1,9 @@
 {
   "updates": [
+   
     {
-  "date": "<span style=color:red>إضافة اختبار</span>",
-  "message": "تم إضافة <a href='https://cs-tests.netlify.app/' target='_blank' style='text-decoration:underline;'><strong>اختبار يناير 2026 (اضغط هنا)</strong></a>."
-},
-    {
-      "date": "اختبار مناهج الثانوي",
-      "message": "تمت إضافة <strong style=color:blue>أسئلة مختارة من مناهج المرحلة الثانوية</strong> معظمها لم ترد في التجميعات."
-    },
-    {
-      "date": "إضافة اختبار",
-      "message": "تمت إضافة <strong>اختبار 1447/أكتوبر 2025</strong>."
+      "date": "تحديث المحتوى",
+      "message": "تم دمج أسئلة اختبارات ١٤٤٧ ضمن أسئلة  المعايير وأسئلة المحاكي."
     },
     {
       "date": "حل أسئلة مختارة",
